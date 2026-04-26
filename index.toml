@@ -613,11 +613,6 @@ hash = "f6e5552989f40475dafca9bed23b26e7948bcbfc8dcab1b5d60ba14f99dbac69"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "f7c02d0caac27640753305d0475ad943402e4a235e2a6e35d2692d20846b4493"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "de010e7ec978eae3f6d8fcffa1fdd9b1e026da57488993064246294a52733633"
 metafile = true
