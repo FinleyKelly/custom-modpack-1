@@ -490,6 +490,11 @@ file = "mods/caelus-forge-3.2.0+1.20.1.jar"
 hash = "43cabe35f0618c0bd01af02e7568ca6f15fd32bb6a90d04c9898bb01e8dc1e81"
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "af254a9e26ed280c6078e2d02aa9f511d5b3f0ae43767e6a35a87583014e5e6e"
 metafile = true
@@ -511,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "8a8182dce5a333fe2522966abe685b836e679305c1259cb60311f58a29730211"
 metafile = true
 
 [[files]]
@@ -570,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "6ce4ff86fe76720575190b5f287f2a144b951e2aba2bc6f347449176d8570680"
 metafile = true
 
 [[files]]
@@ -615,6 +620,31 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "de010e7ec978eae3f6d8fcffa1fdd9b1e026da57488993064246294a52733633"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "0e6b84398cd76ad10e251af670b7b47fa5d320f15a5b0d67b52bef12dd20d41a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "7292700f04a96dd5c0452832ed8d39adc75c4bed7747525bc6e88b3155e58325"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "afb80fb36dff02600b63ef8a48a2d054cfe09c6cefb272006c41b8b7a3115f36"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "9b359acb0571124ca6dbb272951c27c125fc35c734b22d05fda4fbb40e035bbf"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "450f54f2364673840543cc8a65f3387d74fde3252ab5a5e6d6f30daba473b799"
 metafile = true
 
 [[files]]
