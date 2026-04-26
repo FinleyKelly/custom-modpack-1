@@ -1,0 +1,12 @@
+name = "Nexus of Origins-1.2.11"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ab0d4cf71a6e725838a1640f31c745b7264e3501887d6ccb29ce580908072ca4"
+
+[versions]
+forge = "47.3.22"
+minecraft = "1.20.1"
