@@ -1,0 +1,13 @@
+name = "Doctor Who: Deco (formerly WhoCosmetics)"
+filename = "forge-1.20.1-doctor_who_deco-2.1.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ec3Ed3oz/versions/TDV8WFNS/forge-1.20.1-doctor_who_deco-2.1.3-forge.jar"
+hash-format = "sha512"
+hash = "76d3df4f0e35aacb7086240a4395b07b7f39624c4290f6d8fd13533c5d293022c56c67ff6380150f09a60b0110f4ca794f9c8977454eace2b964a0d15dce4516"
+
+[update]
+[update.modrinth]
+mod-id = "Ec3Ed3oz"
+version = "TDV8WFNS"

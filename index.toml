@@ -481,8 +481,33 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "37674bd20bdb8a375ecd0fdcefd50b7c4b10134aeb0f6a5413293841e39af8f3"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "3988dbd2074a7171a504bab87691175256db0e3690fde42cecbc9c47a256d31b"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "705856841852ca6823fb2b16c7e82c15ce251bf995ac6ac725ee5665d3b54dd1"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "2de33e7d757cfa1108b05247cb59f6db2f08000af824da328322d78cdb7c4c4d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
+metafile = true
+
+[[files]]
+file = "mods/black-archive.pw.toml"
+hash = "3f1dddfe7275456ada8c4c2674148e1ddc74a0d995d6d906eea29349f111320b"
 metafile = true
 
 [[files]]
@@ -507,6 +532,26 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "b76545662ec39beac21abf435bc3c8e141b0c743b92e8bbf7a2e61d492b85bf1"
 metafile = true
 
 [[files]]
@@ -535,6 +580,11 @@ hash = "566eb78790c89cf531bfb7002e411faa94ee10b7ad877e0ef1c624cd21c6262a"
 metafile = true
 
 [[files]]
+file = "mods/doctor-who-deco.pw.toml"
+hash = "4e86c12aeef8bc78dc265bc02d9c9c8c3d484b089a3cd5dc73db7b533f1db7c7"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "8a8182dce5a333fe2522966abe685b836e679305c1259cb60311f58a29730211"
 metafile = true
@@ -547,6 +597,21 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "8d11358dfd1f3591ee0ce8728d6a3234e1edef5db39c52fe68264ecf7684968d"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -589,6 +654,21 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b3e04d44f912f43588a592e499c75aac8652a4e461ad37aea67e2383cb5da9fb"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "8cad1023bbc6e5c13961de6248a88b91538f3ad315dfdbb40c969e25606d98eb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
@@ -601,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
@@ -630,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
@@ -677,8 +767,18 @@ hash = "148bc9c5989ac676d91b6f07a5e871d7b5d11c1b7b46fe30c3894c1512069a88"
 metafile = true
 
 [[files]]
+file = "mods/tardis-refined-audreys-additions.pw.toml"
+hash = "a2eb04dc1d10bc89a27e812bf44be0d5b09e3ed85c832178c6e62befa56fb915"
+metafile = true
+
+[[files]]
 file = "mods/tardis-refined.pw.toml"
 hash = "cdf635d888684b397817b61221d3e20bc7bd1411b1d670b92a29c29b6c3d1753"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
 
 [[files]]

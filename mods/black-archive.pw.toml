@@ -1,0 +1,13 @@
+name = "Black Archive"
+filename = "black_archive-1.6.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ybSlbzWT/versions/oxjXqnCA/black_archive-1.6.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "4d26de27b423a806b90944f3d408b5251dbc9fdc624856f09dc9a45bde80af71c1b52ad8ef08ef813aeeec1e34d2e4188b1a8f4279722140b9d72e86d2b0ac09"
+
+[update]
+[update.modrinth]
+mod-id = "ybSlbzWT"
+version = "oxjXqnCA"

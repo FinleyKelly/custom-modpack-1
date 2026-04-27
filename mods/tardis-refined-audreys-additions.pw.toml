@@ -1,0 +1,13 @@
+name = "TARDIS Refined: Audrey's Additions"
+filename = "forge-audreys_additions-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/futCeFPo/versions/1VAn8XVJ/forge-audreys_additions-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "895c1e9e572ce9acc39a8234421c67a9b40fd2b9f12d63c41ad989ac3161c28fd67c2d5709c812475e52ab94ce90b05cba167c56bae941f0b044989127ad6cc2"
+
+[update]
+[update.modrinth]
+mod-id = "futCeFPo"
+version = "1VAn8XVJ"
