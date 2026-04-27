@@ -476,6 +476,11 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "2de33e7d757cfa1108b05247cb59f6db2f08000af824da328322d78cdb7c4c4d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -507,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
