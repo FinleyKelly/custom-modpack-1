@@ -466,6 +466,11 @@ hash = "da42d2a6e6e3f7bd10df625ab23d6ba8a50ecb3545c1c3c6bda4f826caa5d51b"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true
@@ -710,6 +715,11 @@ hash = "4a0b3aeeec9f25faa604e103b4eaa47177ce4be255df1c3127f844acf8ef1d7d"
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "2dae94e62586f0eeceb3149deed649ad151d0def93f428986d6af0e7e9312c81"
 metafile = true
 
 [[files]]
