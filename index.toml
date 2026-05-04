@@ -476,6 +476,11 @@ hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true
 
 [[files]]
+file = "mods/angel-ring.pw.toml"
+hash = "89fb5ecfdec79afaff8ba0965cbffa7d7b645a68e4ef977cc2d45394acad6300"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -562,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
 metafile = true
 
 [[files]]
@@ -664,6 +674,21 @@ hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "fb91561553a2f5456f70a6cfc3b3579b19fe555cb63281511608c4e35e711898"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "dbddb6ac7e04a0832d1cff21a739cbb42e9fda4f9374721b736f4a6aa12babdb"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "e8e2b582e52ac13e3cd67cb2c8be853003625903c4040585ad60e1dbb0f2c48f"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
@@ -743,6 +768,21 @@ hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "50821203e1ce17c63e191385d20bcbbcdc50558574c37602733b461be05be9f4"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "8282c1c9592f716e4ff0de099e69e19edf480795ef81256b5718ccbd376e6061"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "cfe0ab30f0b7a4e145d068855158bdc495d8428b1582ef473338b5389593f66b"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -794,6 +834,11 @@ metafile = true
 [[files]]
 file = "mods/tardis-refined.pw.toml"
 hash = "cdf635d888684b397817b61221d3e20bc7bd1411b1d670b92a29c29b6c3d1753"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "b291b7609da37325268ebd8e413127db0b44bd6d80678e91263290cc09ad8c72"
 metafile = true
 
 [[files]]
